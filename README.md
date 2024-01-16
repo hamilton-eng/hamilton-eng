@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 
-## 🔭 I’m currently working on Regolith Sintering Simulations using Digital Twin Technology
-## 🌱 learning PyANSYS, Image anaylsis(more specfically with XCT Imagry), and 3D rendering.
+#### 🔭 I’m currently working on Regolith Sintering Simulations using Digital Twin Technology
+#### 🌱 learning PyANSYS, Image anaylsis(more specfically with XCT Imagry), and 3D rendering.
 <!--
 **hamilton-eng/hamilton-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
